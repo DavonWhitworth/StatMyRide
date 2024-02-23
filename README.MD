@@ -1,1 +1,1 @@
-"# StatMyRide" 
+# StatMyRide 
